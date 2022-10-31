@@ -1,0 +1,38 @@
+* {
+
+}
+
+
+/*Tag name*/
+  body{
+            background: white;
+        }
+  /*Class*/
+  .card {
+      padding: 10px;
+      background: white;
+      /*margin-bottom: 10px;*/
+  }
+  .card p {
+      font-size: 30px;
+  }
+
+  /*ID*/
+  #header {
+      background: gainsboro;
+      padding: 10px;
+  }
+
+  .html {
+      background: #e56027;
+      color: white;
+  }
+
+  .css {
+      background: #0096dc;
+      padding: 10px;
+  }
+
+  #header, .card {
+      margin-bottom: 10px;
+  }
